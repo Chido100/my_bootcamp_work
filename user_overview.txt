@@ -1,0 +1,9 @@
+Total number of users: 2
+
+User: admin
+Total number of tasks assigned: 1
+Percentage of tasks completed: 0.00%
+
+User: user1
+Total number of tasks assigned: 1
+Percentage of tasks completed: 0.00%
