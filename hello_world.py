@@ -20,7 +20,7 @@ Stop
 user_name = input("Enter name: ")
 print(user_name)
 
-user_age = int(input("Enter age: "))
-print(user_age)
+age_of_user = int(input("Enter age: "))
+print(age_of_user)
 
 print("Hello World!")
